@@ -1,0 +1,60 @@
+/* css styles */
+
+.central h2 {
+  text-align: center;
+}
+
+
+.darkred{
+  color: #DF0606;
+}
+
+.orange{
+   color:#fc7d0b;
+   font-weight: bold;
+}
+
+.blue{
+   color: Darkblue;//#1170aa;
+   font-weight: bold;
+}
+
+.grey{
+   color:#a3acb9;
+   font-weight: bold;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ul li::before {
+  color: red; /* Change the color */
+}
+
+.reveal ul {
+  
+  list-style-type: square;
+}
+
+// fonts
+$font-family-sans-serif: "Nunito", sans-serif !default; 
+
+//$presentation-font-size-root: 25px;
+//$presentation-font-smaller: 1;
+//$code-block-font-size: 0.85em;
+
+//$presentation-heading-font: "Nunito", sans-serif !default; 
+// $font-family-monospace: "Nunito Sans", monospace !default;
+
+// colors
+//$body-bg: #fff !default;
+//$body-color: #fff !default;
+//$selection-bg: #26351c !default;
+//$link-color: Darkblue; 
+//$code-color: #DF0606;
+//$code-bg: #fff !default;
+
+// headings
+//$presentation-heading-line-height: 2.3;
+//$presentation-heading-color: Darkblue !default;

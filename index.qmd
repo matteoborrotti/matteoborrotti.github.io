@@ -1,0 +1,27 @@
+---
+title: "Matteo Borrotti"
+subtitle: "Associate Professor at University of Milano-Bicocca"
+page-layout: full
+about:
+  template: solana
+  image-width: 8em
+  image: images/profile.png
+  image-shape: rounded
+  links:
+    - icon: journal-text
+      text: "Curriculum vitae"
+      href: files/CV_Borrotti.pdf
+    - icon: envelope-at
+      text: "Email address"
+      href: "mailto: matteo.borrotti@unimib.it"
+    - icon: github
+      text: "Github"
+      href: https://github.com/matteoborrotti/
+    - icon: linkedin
+      text: "Linkedin"
+      href: https://www.linkedin.com/in/matteo-borrotti-98ba079/
+---
+
+## About me {.central}
+
+I am an Associate Professor in Statistics at the Department of Economics, Management and Statistics (DEMS) of the University of Milano-Bicocca.

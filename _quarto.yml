@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Matteo Borrotti"
+  search: false
+  navbar:
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: papers.qmd
+        text: Papers
+      - href: about.qmd
+        text: Short Bio        
+      - href: teaching.qmd
+        text: Teaching
+
+
+format:
+  html:
+    page-layout: full
+    theme: simplex
+    css: styles.css
+    toc: false
+    fontsize: 1.1em
+
+editor: visual
+

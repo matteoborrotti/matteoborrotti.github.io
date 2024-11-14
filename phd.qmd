@@ -1,0 +1,37 @@
+## Research {.central}
+
+<!--
+
+My research focuses on [Statistical Reinforcement Learning]{style="color: palevioletred; font-weight: bold;"} both online and offline.
+
+::: {style="display: flex; justify-content: space-between; align-items: center;"}
+<figure style="width: 45%; text-align: center;">
+
+<img src="images/online_rl.gif" alt="Left GIF" style="width: 100%;"/>
+
+<figcaption>[Google Deep Mind](https://deepmind.google/discover/blog/rl-unplugged-benchmarks-for-offline-reinforcement-learning/)</figcaption>
+
+</figure>
+
+<figure style="width: 45%; text-align: center;">
+
+<img src="images/rl.gif" alt="Right GIF" style="width: 100%;"/>
+
+<figcaption>[Google Deep Mind](https://deepmind.google/discover/blog/rl-unplugged-benchmarks-for-offline-reinforcement-learning/)</figcaption>
+
+</figure>
+:::
+
+Currently, I am working on different applications
+
+[Water tank control]{.palevioletred}
+
+[House heating control]{.palevioletred}
+
+[Precision Medicine]{.palevioletred}
+
+[Self-driving cars]{.palevioletred}
+
+<img src="images/selfdriving_rl.gif" alt="My GIF" style="width: 50%;"/>
+-->
+```

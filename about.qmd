@@ -1,0 +1,102 @@
+## Short Bio {.central}
+
+[Academic positions]{.blue}
+
+::: {layout="[10, 0, 90]"}
+::: {#second-column}
+![](images/logoB.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#first-column}
+[University of Milano-Bicocca]{.blue}, Department of Economics, Management and Statistics (DEMS), Milan, Italy.
+
+-   Associate Professor, 2022 - Present
+-   Assistant Professor (RTD-B), 2019 - 2021
+:::
+:::
+
+::: {layout="[10, 0, 90]"}
+::: {#second-column}
+![](images/logo_imati.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#first-column}
+
+[Consiglio Nazionale delle Ricerche]{.blue}, Institute for applied mathematics and information technologies (IMATI), Milano, Italy.
+
+-   Researcher, 2014 - 2015
+:::
+:::
+
+::: {layout="[10, 0, 90]"}
+::: {#second-column}
+![](images/logo_ven.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#first-column}
+[Ca' Foscari University of Venice]{.blue}, Department of Environmental Sciences, Informatics and Statistics, Venizia, Italy.
+
+-   Post-doc, 2011 - 2014
+:::
+:::
+
+
+
+
+
+[Education]{.blue}
+
+::: {layout="[10, 0, 90]"}
+::: {#second-column}
+![](images/logo_unibo.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#first-column}
+[Ph.D. in Methodological Statistics for Scientific Research]{.blue}, [University of Bologna](https://www.unibo.it/), Bologna, Italy.
+
+18 March 2011
+
+Thesis title: \[*An Evolutionary Approach to the Design of Experiments for Combinatorial Optimization with an Application to Enzyme Engineering*\].
+:::
+:::
+
+::: {layout="[10, 0, 90]"}
+::: {#second-column}
+![](images/cosbi.jpg)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#first-column}
+[II Level International Master in Computational and System Biology]{.blue}, [University of Trento](https://www.unitn.it), Trento, Italy, [Center for Computational and System Biology](https://www.cosbi.eu), Trento, Italy.
+
+:::
+:::
+
+::: {layout="[10, 0, 90]"}
+::: {#second-column}
+![](images/logo_ven.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#first-column}
+[M.Sc. in Statistics for Business Management]{.blue}, [Ca' Foscari University of Venice](https://www.unive.it), Venezia, Italy.
+
+Final mark: 110/110 with laude.
+:::
+:::
