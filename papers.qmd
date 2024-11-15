@@ -61,7 +61,6 @@
 
 [Conference Proceedings and Technical Reports]{.blue}
 
-
 - Bacino, V., Zoccarato, A., Liberati, C., and **Borrotti, M.** (2021) Statistical learning for credit risk modelling. In *Book of Short Papers SIS 2021*, Vol. 2021, pp. 1624–1629.
 
 - Bogni, S., Slanzi, D., and **Borrotti, M.** (2021) Q-learning estimation techniques for Dynamic Treatment Regime . In *Book of Short Papers SIS 2021*, Vol. 2021, pp. 578–583.
