@@ -1,16 +1,16 @@
 ## Papers {.central}
 
-**B.Sc. courses (*Laurea triennale*){.blue}**
+**B.Sc. courses (*Laurea triennale*)**
 
--   [[**Data Mining**]{.text-primary}] - 42 hours (2017/28 - today). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
+-   [**Data Mining**]{.text-primary} - 42 hours (2017/28 - today). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
 
-**M.Sc courses (*Laurea magistrale*){.blue}**
+**M.Sc courses (*Laurea magistrale*)**
 
--   [**Statistical Learning**]{.text-primary} - Part of *Data Science* 42 hours (2023/24 - today). CdL Magistrale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
+-   [**Statistical Learning**]{.text-primary} - Part of *Data Science* - 42 hours (2023/24 - today). CdL Magistrale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
 
 -   [**Statistical Learning**]{.text-primary} - 32 hours (2022/23 - today). CdL Magistrale in Artificial Intelligence for Science and Technology, University of Milano-Bicocca.
 
-**Ph.D. courses (*Dottorato*){.blue}**
+**Ph.D. courses (*Dottorato*)**
 
 -   [**Advances in Deep Learning**]{.text-primary} - Reading course - 15 hours (2021/22 - today). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.
 
