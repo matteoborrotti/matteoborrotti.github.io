@@ -56,8 +56,6 @@
 
 -   **Borrotti, M.**, and Poli, I. (2013) Naïve Bayes ant colony optimization for experimental design, In R. Kruse et al. (Eds.), *Synergies of Soft Computing and Statistics for Intelligent Data Analysis, Advances in Intelligent Systems and Computing*, Vol. 190, pp. 489–497, Springer-Verlag.
 
--   **Borrotti, M.**, and Poli, I. (2013) Naïve Bayes ant colony optimization for experimental design, In R. Kruse et al. (Eds.), *Synergies of Soft Computing and Statistics for Intelligent Data Analysis, Advances in Intelligent Systems and Computing*, Vol. 190, pp. 489–497, Springer-Verlag.
-
 -   **Borrotti, M.**, De Lucrezia, D., Minervini, G., and Poli, I., A model based ant colony design for the protein engineering problems, In M. Dorigo et al. (Eds.), *ANTS 2010, Lecture Notes in Computer Science*, Vol. 6263, pp. 352–359, Springer-Verlag, 2010.
 
 [Conference Proceedings and Technical Reports]{.blue}
