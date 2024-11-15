@@ -11,7 +11,7 @@
 :::
 
 ::: {#first-column}
-[University of Milano-Bicocca]{.blue}, Department of Economics, Management and Statistics (DEMS), Milan, Italy.
+[University of Milano-Bicocca]{.blue}, Department of Economics, Management and Statistics (DEMS), Milano, Italy.
 
 -   Associate Professor, 2022 - Present
 -   Assistant Professor (RTD-B), 2019 - 2021
@@ -27,7 +27,6 @@
 :::
 
 ::: {#first-column}
-
 [Consiglio Nazionale delle Ricerche]{.blue}, Institute for applied mathematics and information technologies (IMATI), Milano, Italy.
 
 -   Researcher, 2014 - 2015
@@ -43,14 +42,29 @@
 :::
 
 ::: {#first-column}
-[Ca' Foscari University of Venice]{.blue}, Department of Environmental Sciences, Informatics and Statistics, Venizia, Italy.
+[Ca' Foscari University of Venice]{.blue}, Department of Environmental Sciences, Informatics and Statistics, Venezia, Italy.
 
 -   Post-doc, 2011 - 2014
 :::
 :::
 
 
+[Job positions]{.blue}
 
+::: {layout="[10, 0, 90]"}
+::: {#second-column}
+![](images/logo_encre.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#first-column}
+[Energia Crescente S.r.l.]{.blue}, R&D Department , Milano, Italy.
+
+-   Data Scientist, 2016 - 2018
+:::
+:::
 
 
 [Education]{.blue}
@@ -82,7 +96,6 @@ Thesis title: \[*An Evolutionary Approach to the Design of Experiments for Combi
 
 ::: {#first-column}
 [II Level International Master in Computational and System Biology]{.blue}, [University of Trento](https://www.unitn.it), Trento, Italy, [Center for Computational and System Biology](https://www.cosbi.eu), Trento, Italy.
-
 :::
 :::
 
