@@ -34,7 +34,7 @@
 
 -   Sambo, F., **Borrotti, M.**, and Mylona, K. (2014) Coordinate-exchange two-phase local search: an optimal algorithm for D-efficient and I-efficient second-order split-plot designs, *Computational Statistics and Data Analysis*, Vol. 71, pp. 1193–1207, [10.1016/j.csda.2013.03.015](https://dx.doi.org/10.1016/j.csda.2013.03.015).
 
--   Ferrari, D., **Borrotti, M.**, and De March, D., Response improvement in complex experiments by co-information composite likelihood optimization, *Statistics and Computing*, Vol. 24, pp. 351–363, [10.1007/s11222-013-9374-8](https://dx.doi.org/10.1007/s11222-013-9374-8).
+-   Ferrari, D., **Borrotti, M.**, and De March, D. (2014) Response improvement in complex experiments by co-information composite likelihood optimization, *Statistics and Computing*, Vol. 24, pp. 351–363, [10.1007/s11222-013-9374-8](https://dx.doi.org/10.1007/s11222-013-9374-8).
 
 -   Zemella, G., De March, D., **Borrotti, M.**, and Poli, I. (2011) Optimised design of energy efficient building façades via evolutionary neural networks, *Energy and Buildings*, vol. 43, pp. 3297– 3302, [10.1016/j.enbuild.2011.10.006](https://dx.doi.org/10.1016/j.enbuild.2011.10.006).
 

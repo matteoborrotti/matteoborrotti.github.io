@@ -1,5 +1,6 @@
 ## Research {.central}
 
+```{=html}
 <!--
 
 My research focuses on [Statistical Reinforcement Learning]{style="color: palevioletred; font-weight: bold;"} both online and offline.
@@ -35,3 +36,4 @@ Currently, I am working on different applications
 <img src="images/selfdriving_rl.gif" alt="My GIF" style="width: 50%;"/>
 -->
 ```
+\`\`\`
