@@ -8,7 +8,7 @@
 
 -   **Borrotti, M.**, Sambo, F., and Mylona, K. (2023). Multi-objective optimisation of split-plot designs. *Econometrics and Statistics*, Vol. 28, p. 163-172, [10.1016/j.ecosta.2022.04.001](https://dx.doi.org/10.1016/j.ecosta.2022.04.001).
 
-- **Borrotti, M.**, Rabasco, Michele, Santoro, Alessandro (2023). Using accounting information to predict aggressive tax location decisions by European groups, *Economic Systems*, Vol. 43, 101090, [10.1016/j.ecosys.2023.101090](https://dx.doi.org/10.1016/j.ecosys.2023.101090).
+- **Borrotti, M.**, Rabasco, M., Santoro, A. (2023). Using accounting information to predict aggressive tax location decisions by European groups, *Economic Systems*, Vol. 43, 101090, [10.1016/j.ecosys.2023.101090](https://dx.doi.org/10.1016/j.ecosys.2023.101090).
 
 - Riboni, A., Ghioldi, N., Candelieri, A., and **Borrotti, M.** (2022) Bayesian optimization and deep learning for steering wheel angle prediction, *Scientific Reports*, Vol. 12, pp. 1–13, [10.1038/s41598-022-12509-6](https://dx.doi.org/10.1038/s41598-022-12509-6).
 
@@ -26,7 +26,7 @@
 
 - Coccon, F., Bossi, G., **Borrotti, M.**, P. Torricelli, and P. Franzoi (2015) A land-use perspective for wildlife strike risk assessment at airports: the Attraction Risk Index, *PlosOne*, Vol. 10, [10.1371/journal.pone.0128363](https://dx.doi.org/10.1371/journal.pone.0128363).
 
-- Zennaro, P., Kehrwald, N.M., McConnel, J.R., Schüpbach, S., Maselli, O., Marlon, J., Vallelonga, P., Leuenberger, D., Zangrando, R., Spolaor, M., **Borrotti, M.**, Barbaro, E., Gambaro, A., and Barbante, C. (2014) Fire in ice: two millennia of northern hemisphere fire history from the Greenland NEEM ice core, Climate of the Past, Vol. 10, pp. 1905–1925, [10.5194/cpd-10-809-2014](https://dx.doi.org/10.5194/cpd-10-809-2014).
+- Zennaro, P., Kehrwald, N.M., McConnel, J.R., Schüpbach, S., Maselli, O., Marlon, J., Vallelonga, P., Leuenberger, D., Zangrando, R., Spolaor, M., **Borrotti, M.**, Barbaro, E., Gambaro, A., and Barbante, C. (2014) Fire in ice: two millennia of northern hemisphere fire history from the Greenland NEEM ice core, *Climate of the Past*, Vol. 10, pp. 1905–1925, [10.5194/cpd-10-809-2014](https://dx.doi.org/10.5194/cpd-10-809-2014).
 
 - **Borrotti, M.**, De March, M., Slanzi, D., Poli, I. (2014) Designing lead optimisation of MMP-12 Inhibitors, *Computational and Mathematical Methods in Medicine*, Vol. 2014, pp. 1–8, [10.1155/2014/258627](https://dx.doi.org/10.1155/2014/258627).
 
