@@ -2,7 +2,9 @@
 
 [Articles in Refereed Journals]{.blue}
 
--   Zangirolami, V., and **Borrotti, M.** (2024). Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning. *Knowledge-Based Systems*, Vol. 293, p. 1-11, [10.1016/j.knosys.2024.111663](https://dx.doi.org/10.1016/j.knosys.2024.111663).
+- Gerli, S., Cigna, T., Ascari, R., Migliorati, S., and **Borrotti, M.** (2024) Beyond human labelling: an automatic topic identification framework for big web data, *Electronic Journal of Applied Statistical Analysis*, accepted.
+
+- Zangirolami, V., and **Borrotti, M.** (2024). Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning. *Knowledge-Based Systems*, Vol. 293, p. 1-11, [10.1016/j.knosys.2024.111663](https://dx.doi.org/10.1016/j.knosys.2024.111663).
 
 -   **Borrotti, M.** (2024). Quantifying Uncertainty with Conformal Prediction for Heating and Cooling Load Forecasting in Building Performance Simulation. *Energies*, Vol. 17, p. 1-13, [10.3390/en17174348](https://dx.doi.org/10.3390/en17174348).
 
