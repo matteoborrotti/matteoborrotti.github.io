@@ -1,17 +1,17 @@
-## Teaching {.central}
+## Papers {.central}
 
-```{=html}
-<!--**B.Sc. courses (*Laurea triennale*)**
+**B.Sc. courses (*Laurea triennale*){.blue}**
 
--   [**Modelli Statistici & R**]{.text-primary} - Part of *Analisi Statistica Multivariata* - 73 hours (2022/23 - today). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
+-   [[**Data Mining**]{.text-primary}] - 42 hours (2017/28 - today). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
 
-**M.Sc courses (*Laurea magistrale*)**
+**M.Sc courses (*Laurea magistrale*){.blue}**
 
--   [**Metodi Statistici per il Marketing**]{.text-primary} - 63 hours (2021/22). CdL Magistrale in Marketing e Mercati Globali, University of Milano-Bicocca.
+-   [**Statistical Learning**]{.text-primary} - Part of *Data Science* 42 hours (2023/24 - today). CdL Magistrale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
 
-**Ph.D. courses (*Dottorato*)**
+-   [**Statistical Learning**]{.text-primary} - 32 hours (2022/23 - today). CdL Magistrale in Artificial Intelligence for Science and Technology, University of Milano-Bicocca.
 
--   [**Statistical Inference I**]{.text-primary} - 15 hours (2021/22 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.
+**Ph.D. courses (*Dottorato*){.blue}**
 
--   [**Statistical Inference II**]{.text-primary} - 15 hours (2022/23 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca. -->
-```
+-   [**Advances in Deep Learning**]{.text-primary} - Reading course - 15 hours (2021/22 - today). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.
+
+-   [**Tree-based methods**]{.text-primary} - 12 hours (from 2021/22 to 2023/24). Ph.D. in Business and Society, University of Milano-Bicocca.

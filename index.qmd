@@ -29,6 +29,8 @@ about:
 
 I am an Associate Professor in Statistics at [department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) of the [University of Milano-Bicocca](https://en.unimib.it).
 
+I am a member of the [Data Science Lab](https://datalab.unimib.it/) at the Univerisity of Milano-Bicocca.
+
 [Research interests]{.blue}: multi-criteria design of experiments; sequential design of experiments; computational and applied statistics; reinforcement learning; dynamic treatment regime.
 
 [E-mail]{.blue}:  matteo.borrotti@unimib.it
