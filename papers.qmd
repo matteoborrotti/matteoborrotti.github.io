@@ -2,58 +2,38 @@
 
 [Articles in refereed journals]{.blue}
 
--   Zangirolami, V., and **Borrotti, M.** (2024). Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning. *Knowledge-Based Systems*, 293, p. 1--11 (doi: 10.1016/j.knosys.2024.111663).
+-   Zangirolami, V., and **Borrotti, M.** (2024). Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning. *Knowledge-Based Systems*, Vol. 293, p. 1-11, [10.1016/j.knosys.2024.111663](https://dx.doi.org/10.1016/j.knosys.2024.111663).
 
--   **Borrotti, M.** (2024). Quantifying Uncertainty with Conformal Prediction for Heating and Cooling Load Forecasting in Building Performance Simulation. **Energie**, 17, p. 1-13 (doi: 10.3390/en17174348).
+-   **Borrotti, M.** (2024). Quantifying Uncertainty with Conformal Prediction for Heating and Cooling Load Forecasting in Building Performance Simulation. *Energies*, Vol. 17, p. 1-13, [10.3390/en17174348](https://dx.doi.org/10.3390/en17174348).
 
--   **Borrotti, M.**, Sambo, F., and Mylona, K. (2023). Multi-objective optimisation of split-plot designs. **Econometrics and Statistics**, 28, p. 163-172 (doi: 10.1016/j.ecosta.2022.04.001).
+-   **Borrotti, M.**, Sambo, F., and Mylona, K. (2023). Multi-objective optimisation of split-plot designs. *Econometrics and Statistics*, Vol. 28, p. 163-172, [10.1016/j.ecosta.2022.04.001](https://dx.doi.org/10.1016/j.ecosta.2022.04.001).
 
-```{=html}
-<!--
-**Borrotti, M.**, Rabasco, M., and Santoro, A., Using accounting information to predict aggressive tax location decisions by European groups, Economic Systems, Available online 5 March
-2023.
+- **Borrotti, M.**, Rabasco, Michele, Santoro, Alessandro (2023). Using accounting information to predict aggressive tax location decisions by European groups, *Economic Systems*, Vol. 43, 101090, [10.1016/j.ecosys.2023.101090](https://dx.doi.org/10.1016/j.ecosys.2023.101090).
 
-2) Borrotti, M., Sambo, F., and Mylona, K., Multi-objective optimisation of split-plot designs,
-Econometrics and Statistics, Available online 9 April 2022.
-3) Riboni, A., Ghioldi, N., Candelieri, A., and Borrotti, M., Bayesian optimization and deep
-learning for steering wheel angle prediction, Scientific Reports, Vol. 12, pp. 1–13, 2022.
-4) Lucarelli, G., and Borrotti, M., A deep Q-learning portfolio management framework for the
-cryptocurrency market, Neural Computing and Applications, Vol.32, pp. 17229—17244,
-2020.
-5) Borrotti, M., Sambo, F., Mylona, K., and Gilmour, S., A multi-objective coordinate-exchange
-two-phase local search algorithm for multi-stratum experiments, Statistics and Computing,
-Vol. 27, pp. 469–481, 2017.
-6) Borrotti, M., Lanzarone, E., Manganini, F., Ortelli, S., Pievatolo, A., and Tonetti, C., Defect
-minimization and feature control in electrospinning through design of experiments, Journal
-of Applied Polymer, Vol 134, 2017.
-7) Piccolomini, A. A., Fiabon, A., Borrotti, M., and De Lucrezia, D., Optimization of thermophilic
-trans-isoprenyl diphosphate synthase expression in Escherichia coly by response surface
-methodology, Biotechnology and Applied Biochemistry, Vol. 64, pp. 70-78, 2017.
-8) Borrotti, M., Minervini, G., De Lucrezia, P., and Poli, I., Naïve Bayes ant colony optimization
-for designing high dimensional experiments, Applied Soft Computing, Vol. 49, pp. 459–468,
-2016.
-9) Borrotti, M., Pievatolo, A., Degiorgi, A., Critelli, I., and Colledani, M., A computer-aided
-methodology for the optimization of electrostatic separation processes in recycling, Applied
-Stochastic Models in Business and Industry, Vol. 32, pp. 133–148, 2016.
-10) Coccon, F., Bossi, G., Borrotti, M., P. Torricelli, and P. Franzoi, A land-use perspective for
-wildlife strike risk assessment at airports: the Attraction Risk Index, PlosOne, Vol. 10, 2015.
-11) Zennaro, P., Kehrwald, N.M., McConnel, J.R., Schüpbach, S., Maselli, O., Marlon, J., Vallelonga,
-P., Leuenberger, D., Zangrando, R., Spolaor, M., Borrotti, M., Barbaro, E., Gambaro,
-A., and Barbante, C., Fire in ice: two millennia of northern hemisphere fire history from the
-Greenland NEEM ice core, Climate of the Past, Vol. 10, pp. 1905–1925, 2014.
-12) Borrotti, M., De March, M., Slanzi, D., Poli, I., Designing lead optimisation of MMP-12 Inhibitors,
-Computational and Mathematical Methods in Medicine, Vol. 2014, pp. 1–8, 2014.
-13) Sambo, F., Borrotti, M., and Mylona, K., Coordinate-exchange two-phase local search: an
-optimal algorithm for D-efficient and I-efficient second-order split-plot designs, Computational
-Statistics and Data Analysis, Vol. 71, pp. 1193–1207, 2014.
-14) Ferrari, D., Borrotti, M., and De March, D., Response improvement in complex experiments
-by co-information composite likelihood optimization, Statistics and Computing, Vol. 24, pp.
-351–363, 2014.
-15) Zemella, G., De March, D. Borrotti, M, and Poli, I., Optimised design of energy efficient
-building façades via evolutionary neural networks, Energy and Buildings, vol. 43, pp. 3297–
-3302, 2011.
-16) Pizza, F., Contardi, S., Baldi Antognini, A., Zagoraiou, M., Borrotti, M., Mostacci, B., Mondini,
-and S., Cirignotta, F., Sleep quality and car accidents in adolescents, Journal of Clinical
-Sleep Medicine, Vol. 6, No. 1, 2010.
-November -->
-```
+- Riboni, A., Ghioldi, N., Candelieri, A., and **Borrotti, M.** (2022) Bayesian optimization and deep learning for steering wheel angle prediction, *Scientific Reports*, Vol. 12, pp. 1–13, [10.1038/s41598-022-12509-6](https://dx.doi.org/10.1038/s41598-022-12509-6).
+
+- Lucarelli, G., and **Borrotti, M.** (2020) A deep Q-learning portfolio management framework for the cryptocurrency market, *Neural Computing and Applications*, Vol.32, pp. 17229—17244, [10.1007/s00521-020-05359-8](https://dx.doi.org/10.1007/s00521-020-05359-8).
+
+- **Borrotti, M.**, Sambo, F., Mylona, K., and Gilmour, S. (2017) A multi-objective coordinate-exchange two-phase local search algorithm for multi-stratum experiments, *Statistics and Computing*, Vol. 27, pp. 469–481, [10.1007/s11222-016-9633-6](https://dx.doi.org/10.1007/s11222-016-9633-6).
+
+- **Borrotti, M.**, Lanzarone, E., Manganini, F., Ortelli, S., Pievatolo, A., and Tonetti, C. (2017) Defect minimization and feature control in electrospinning through design of experiments, *Journal of Applied Polymer*, Vol. 134, [10.1002/app.44740](https://dx.doi.org/10.1002/app.44740).
+
+- Piccolomini, A. A., Fiabon, A., **Borrotti, M.**, and De Lucrezia, D. (2017) Optimization of thermophilic trans-isoprenyl diphosphate synthase expression in Escherichia coly by response surface methodology, *Biotechnology and Applied Biochemistry*, Vol. 64, pp. 70-78, [10.1002/bab.1459](https://dx.doi.org/10.1002/bab.1459).
+
+- **Borrotti, M.**, Minervini, G., De Lucrezia, P., and Poli, I. (2016) Naïve Bayes ant colony optimization for designing high dimensional experiments, *Applied Soft Computing*, Vol. 49, pp. 459–468, [10.1016/j.asoc.2016.08.018](https://dx.doi.org/10.1016/j.asoc.2016.08.018).
+
+- **Borrotti, M.**, Pievatolo, A., Degiorgi, A., Critelli, I., and Colledani, M. (2016) A computer-aided methodology for the optimization of electrostatic separation processes in recycling, *Applied Stochastic Models in Business and Industry*, Vol. 32, pp. 133–148, [10.1002/asmb.2128](https://dx.doi.org/10.1002/asmb.2128).
+
+- Coccon, F., Bossi, G., **Borrotti, M.**, P. Torricelli, and P. Franzoi (2015) A land-use perspective for wildlife strike risk assessment at airports: the Attraction Risk Index, *PlosOne*, Vol. 10, [10.1371/journal.pone.0128363](https://dx.doi.org/10.1371/journal.pone.0128363).
+
+- Zennaro, P., Kehrwald, N.M., McConnel, J.R., Schüpbach, S., Maselli, O., Marlon, J., Vallelonga, P., Leuenberger, D., Zangrando, R., Spolaor, M., **Borrotti, M.**, Barbaro, E., Gambaro, A., and Barbante, C. (2014) Fire in ice: two millennia of northern hemisphere fire history from the Greenland NEEM ice core, Climate of the Past, Vol. 10, pp. 1905–1925, [10.5194/cpd-10-809-2014](https://dx.doi.org/10.5194/cpd-10-809-2014).
+
+- **Borrotti, M.**, De March, M., Slanzi, D., Poli, I. (2014) Designing lead optimisation of MMP-12 Inhibitors, *Computational and Mathematical Methods in Medicine*, Vol. 2014, pp. 1–8, [10.1155/2014/258627](https://dx.doi.org/10.1155/2014/258627).
+
+- Sambo, F., **Borrotti, M.**, and Mylona, K. (2014) Coordinate-exchange two-phase local search: an optimal algorithm for D-efficient and I-efficient second-order split-plot designs, *Computational Statistics and Data Analysis*, Vol. 71, pp. 1193–1207, [10.1016/j.csda.2013.03.015](https://dx.doi.org/10.1016/j.csda.2013.03.015).
+
+- Ferrari, D., **Borrotti, M.**, and De March, D., Response improvement in complex experiments by co-information composite likelihood optimization, *Statistics and Computing*, Vol. 24, pp. 351–363, [10.1007/s11222-013-9374-8](https://dx.doi.org/10.1007/s11222-013-9374-8).
+
+- Zemella, G., De March, D., **Borrotti, M.**, and Poli, I. (2011) Optimised design of energy efficient building façades via evolutionary neural networks, *Energy and Buildings*, vol. 43, pp. 3297– 3302, [10.1016/j.enbuild.2011.10.006](https://dx.doi.org/10.1016/j.enbuild.2011.10.006).
+
+- Pizza, F., Contardi, S., Baldi Antognini, A., Zagoraiou, M., **Borrotti, M.**, Mostacci, B., Mondini, and S., Cirignotta, F. (2010) Sleep quality and car accidents in adolescents, *Journal of Clinical Sleep Medicine*, Vol. 6, No. 1, [10.5664/jcsm.27708](https://dx.doi.org/10.5664/jcsm.27708).
