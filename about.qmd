@@ -48,7 +48,6 @@
 :::
 :::
 
-
 [Job positions]{.blue}
 
 ::: {layout="[10, 0, 90]"}
@@ -65,7 +64,6 @@
 -   Data Scientist, 2016 - 2018
 :::
 :::
-
 
 [Education]{.blue}
 

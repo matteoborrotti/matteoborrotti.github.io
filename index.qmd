@@ -33,4 +33,4 @@ I am a member of the [Data Science Lab](https://datalab.unimib.it/) at the Unive
 
 [Research interests]{.blue}: multi-criteria design of experiments; sequential design of experiments; computational and applied statistics; reinforcement learning; dynamic treatment regime.
 
-[E-mail]{.blue}:  matteo.borrotti@unimib.it
+[E-mail]{.blue}: matteo.borrotti\@unimib.it

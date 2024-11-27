@@ -16,7 +16,8 @@ website:
         text: Short Bio        
       - href: teaching.qmd
         text: Teaching
-
+      - href: phd.qhd
+        text: Other info
 
 format:
   html:

@@ -1,39 +1,22 @@
-## Research {.central}
+## Other Information {.central}
 
-```{=html}
-<!--
+[Ph.D. students]{.blue}
 
-My research focuses on [Statistical Reinforcement Learning]{style="color: palevioletred; font-weight: bold;"} both online and offline.
+I am the supervisor of the following Ph.D. students:
 
-::: {style="display: flex; justify-content: space-between; align-items: center;"}
-<figure style="width: 45%; text-align: center;">
+- [Valentina Zangirolami](https://valentinazangirolami.github.io/);
 
-<img src="images/online_rl.gif" alt="Left GIF" style="width: 100%;"/>
+- [Andrea Laurenzi](https://www.linkedin.com/in/andrea-laurenzi-27524a23/?originalSubdomain=it/).
 
-<figcaption>[Google Deep Mind](https://deepmind.google/discover/blog/rl-unplugged-benchmarks-for-offline-reinforcement-learning/)</figcaption>
+I am also working with the following Ph.D. students:
 
-</figure>
+ - [Jiefeng Bi](https://www.linkedin.com/in/jiefeng-bi-037640207/?originalSubdomain=it/).
+ 
+ Former Ph.D. students:
+ 
+ - [Silvio Gerli](https://www.linkedin.com/in/silvio-gerli-phd-3b099842/?originalSubdomain=it/)
+ 
+[Software]{.blue}
 
-<figure style="width: 45%; text-align: center;">
-
-<img src="images/rl.gif" alt="Right GIF" style="width: 100%;"/>
-
-<figcaption>[Google Deep Mind](https://deepmind.google/discover/blog/rl-unplugged-benchmarks-for-offline-reinforcement-learning/)</figcaption>
-
-</figure>
-:::
-
-Currently, I am working on different applications
-
-[Water tank control]{.palevioletred}
-
-[House heating control]{.palevioletred}
-
-[Precision Medicine]{.palevioletred}
-
-[Self-driving cars]{.palevioletred}
-
-<img src="images/selfdriving_rl.gif" alt="My GIF" style="width: 50%;"/>
--->
-```
-\`\`\`
+- [multiDoE: Multi-Criteria Design of Experiments for Optimal Design](https://cran.r-project.org/web/packages/multiDoE/index.html/) 
+ 
